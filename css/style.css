@@ -6,3 +6,11 @@ body{
     line-height: normal;
     margin: auto;
 }
+h1{
+    color: aquamarine;
+    text-align: center;
+}
+h2{
+    color: red;
+    text-align: center;
+}
